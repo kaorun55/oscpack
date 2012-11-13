@@ -29,6 +29,6 @@ Visual Studio 環境ではbuildフォルダ以下を使うことで、すぐに�
 環境
 ====================
 * Windows 8 Pro 64bit
-* Visual Studio 2012 Ultimate
+* Visual Studio Express 2012 for Windows Desktop
 
 
