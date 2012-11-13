@@ -42,6 +42,8 @@ profile
 # Build results
 Debug/
 Release/
+Debug*/
+Release*/
 *.obj
 .builds
 
